@@ -1,0 +1,4 @@
+
+
+import itertools
+perms = itertools.permutations('ABCD', r=2)
